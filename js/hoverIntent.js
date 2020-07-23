@@ -13,7 +13,7 @@
  * threshold) before firing the event. The handlerOut function is only
  * called after a matching handlerIn.
  *
- * // basic usage ... just like .hover()
+ * // basic usage ... just like .hover()   
  * .hoverIntent( handlerIn, handlerOut )
  * .hoverIntent( handlerInOut )
  *
